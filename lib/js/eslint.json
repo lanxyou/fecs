@@ -17,7 +17,8 @@
         "setImmediate": true,
         "ActiveXObject": true,
         "unescape": true,
-        "escape": true
+        "escape": true,
+        "__inline": true
     },
 
     "rules": {
